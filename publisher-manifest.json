@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "2f5467fc2462f08328430fef",
+  "owner": "pokiu9728",
+  "repo": "page-40f981702085bd55bb01659a",
+  "title": "J20",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "40f981702085bd55bb01659a",
+      "a": "J20",
+      "b": "最新6折优惠码",
+      "entity": "J20",
+      "brand": "J20",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5abb7f63680c20fafdcd7e6081d976aa71c8b9247298d49df3dc4381b484198f",
+      "content": {
+        "primary_entity": "J20",
+        "keyword1": "J20",
+        "keyword2": "最新6折优惠码",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，手机、电脑与路由器各有适配的订阅方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对比基础版、旗舰版与团队版的流量和设备数，按自己的设备数量选定套餐后配置订阅即可。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，套餐按流量和设备数量分层，基础版面向单人轻度使用，旗舰版覆盖多设备与流媒体，团队版适合多人共享。选择时先确认常用设备的数量和每月流量需求，再对应订阅周期。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期列出三点，帮助快速判断哪一档更贴近日常使用。",
+          "AI_FEATURES_TITLE": "特点速览",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备在线，适合单人手机与电脑日常切换。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备在线，含 IPLC 专线节点，适合多设备与流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备在线，支持定制路由，适合小团队共享。",
+          "AI_FEATURE_TITLE_1": "按量入门",
+          "AI_FEATURE_TITLE_2": "多设备进阶",
+          "AI_FEATURE_TITLE_3": "多人共享",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "J20 提供基础版、旗舰版与团队版三档订阅，按每月流量和设备在线数量区分使用场景。先确认常用设备数量和月流量，再对照套餐选择合适的一档，随后在对应客户端导入订阅。",
+          "AI_HERO_SUBTITLE": "多设备订阅套餐按需选",
+          "AI_HIGHLIGHT_1": "三档套餐按流量分层",
+          "AI_HIGHLIGHT_2": "设备在线数随套餐提升",
+          "AI_HIGHLIGHT_3": "年付折算更省月费",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；按年付分别为 ¥150、¥350、¥850。流量从 100GB 到 1000GB，设备数从 3 台到 20 台。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确定常用设备数量与每月大致流量，单人轻度使用基础版即可。",
+          "AI_STEP_TEXT_2": "对照套餐页查看各档的流量、设备上限与线路类型，确认适配要求。",
+          "AI_STEP_TEXT_3": "按所用客户端文档导入订阅，设备端完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "J20 订阅套餐",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。手机、平板、电脑可分别配置，超出数量时升级套餐即可获得更多设备位置。",
+          "AI_FAQ_ANSWER_2": "三档套餐分别是每月 100GB、300GB 和 1000GB。日常聊天、浏览网页选基础版；常看流媒体或玩游戏选旗舰版；多人共用或团队办公选团队版。",
+          "AI_FAQ_ANSWER_3": "按年付比月付更划算。基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，一次支付全年，无需每月续费。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供全节点流媒体解锁和 IPLC 专线游戏加速，适合对速度与稳定性要求较高的场景。团队版另有 VIP 高带宽节点和企业定制路由。",
+          "AI_FAQ_ANSWER_5": "在购买后获取订阅地址，复制到对应客户端并导入，按客户端文档选择节点后开启连接。不同设备的具体导入方式略有差别。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个 J20 账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "三档套餐的月流量差别大吗，怎么选？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付价格差多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版分别适合什么场景？",
+          "AI_FAQ_QUESTION_5": "拿到订阅后怎么导入客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "88b796576b00171e88b89a4744f724d95c90466da9029471741a4e5c901a59a2",
+    "sitemap.xml": "bc1078ef597983c0072bb126de8b933337bb2860311e23af842a0d2fdfbd4b71",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "953b84afff879c641fc06147b2816a71cba32aeb5b88ff9efb3997ae1ea74e1b"
+}
